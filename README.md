@@ -6,6 +6,6 @@ I teach cartography, geographic information systems/remote sensing, and conserva
 
 [**Earth Engine Primer:**](https://jeffhowarth.github.io/eeprimer/) An open textbook for learning Google Earth Engine.  
 
-[**Earth Engine Apps:**](https://jhowarth.users.earthengine.app/) Apps for learning Google Earth Engine.
+[**Earth Engine Apps:**](https://jhowarth.users.earthengine.app/) Apps for learning with Google Earth Engine.
 
-*contact:* jhowarth@middlebury.edu 
+*contact: jhowarth@middlebury.edu*  
