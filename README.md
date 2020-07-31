@@ -1,6 +1,6 @@
 ![Hokkaido early draft](/images/hokkaido_cropped.png)
 
-I teach cartography, geographic information systems/remotes sensing, and conservation planning at an undergraduate liberal arts college in Vermont.
+I teach cartography, geographic information systems/remote sensing, and conservation planning at an undergraduate liberal arts college in Vermont.
 
 ## Earth Engine Projects
 
@@ -8,7 +8,4 @@ I teach cartography, geographic information systems/remotes sensing, and conserv
 
 [**Earth Engine Apps:**](https://jhowarth.users.earthengine.app/) Apps for learning Google Earth Engine.
 
-**Jeff Howarth**   
-Associate Professor, Geography Dept, Middlebury College  
-Middlebury, Vermont, USA  
-jhowarth@middlebury.edu  
+*contact:* jhowarth@middlebury.edu 
