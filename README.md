@@ -10,6 +10,6 @@ As an Associate Professor of Geography, I teach cartography, geographic informat
 
 ## Cartography Projects  
 
-[**Lessons for Teaching Cartography:**](https://jeffhowarth.github.io/cartEdu/color/munsell/) Readings, questions, activities, and tutorials for teaching cartography.  
+[**Lessons for Teaching Cartography:**](https://jeffhowarth.github.io/cartEdu/) Readings, questions, activities, and tutorials for teaching cartography.  
 
 *contact: jhowarth@middlebury.edu*  
