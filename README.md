@@ -4,6 +4,8 @@ As an Associate Professor of Geography, I teach cartography, geographic informat
 
 ## Earth Engine Projects
 
+[**Vermont Conservation Atlas:**](https://jeffhowarth.github.io/vtConservationAtlas/) Tools for conservation planning in Vermont.  
+
 [**Earth Engine Primer:**](https://jeffhowarth.github.io/eeprimer/) An open textbook for learning Google Earth Engine.  
 
 [**Earth Engine Apps:**](https://jhowarth.users.earthengine.app/) Apps for learning with Google Earth Engine.
