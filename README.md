@@ -6,10 +6,10 @@ I am an Associate Professor of Geography at an undergraduate liberal arts colleg
 
 [**Earth Engine Apps:**](https://jhowarth.users.earthengine.app/) Apps for teaching and exploring with Google Earth Engine. *Ongoing*
 
-[**Conservation Planning:**](https://geog0310.github.io/f21/) Geography 310: Conservation Planning at Middlebury College. *Fall 2021*
+[**Mapping Global Environmental Change:**](https://geog0150.github.io/w22/) Geography/Environmental Studies 150. *Winter 2022*
 
 [**Earth Engine Primer:**](https://jeffhowarth.github.io/eeprimer/) An open textbook for learning Google Earth Engine. *Winter-spring 2022*  
 
-[**Lessons for Cartography:**](https://jeffhowarth.github.io/cartEdu/) Tentative outline for *Geography 231: Cartography* to be offered at Middlebury College in *Spring 2022*.  
+[**Cartography:**](https://jeffhowarth.github.io/cartEdu/) Very tentative outline for *Geography 231: Cartography* to be offered at Middlebury College in *Spring 2022*.  
 
 *contact: jhowarth@middlebury.edu*  
