@@ -8,7 +8,7 @@ I am an Associate Professor of Geography at an undergraduate liberal arts colleg
 
 [**Mapping Global Environmental Change:**](https://geog0150.github.io/w22/) Geography/Environmental Studies 150. *Winter 2022*
 
-[**Earth Engine Primer:**](https://jeffhowarth.github.io/eeprimer/) An open textbook for learning Google Earth Engine. *Winter-spring 2022*  
+[**Earth Engine Primer:**](https://github.com/jeffhowarth/eeprimer) Materials for teaching with Google Earth Engine. *Winter-spring 2022*  
 
 [**Cartography:**](https://jeffhowarth.github.io/cartEdu/) Very tentative outline for *Geography 231: Cartography* to be offered at Middlebury College in *Spring 2022*.  
 
