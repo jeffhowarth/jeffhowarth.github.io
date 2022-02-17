@@ -10,6 +10,6 @@ I am an Associate Professor of Geography at an undergraduate liberal arts colleg
 
 [**Earth Engine Primer:**](https://github.com/jeffhowarth/eeprimer) Materials for teaching with Google Earth Engine. *Spring 2022*  
 
-[**Cartography:**](https://geog0231.github.io/s22/) Materials for teaching Cartography. *Spring 2022*.  
+[**Cartography:**](https://geog0231.github.io/s22/) Geography 231. *Spring 2022*.  
 
 *contact: jhowarth@middlebury.edu*  
