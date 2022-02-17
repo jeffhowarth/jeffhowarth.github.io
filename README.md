@@ -1,3 +1,5 @@
+## Jeff Howarth  
+
 ![Hokkaido early draft](/images/hokkaido_cropped.png)
 
 I am an Associate Professor of Geography at an undergraduate liberal arts college in Vermont, USA. I teach cartography, geographic information systems, remote sensing, and conservation planning.
@@ -8,8 +10,9 @@ I am an Associate Professor of Geography at an undergraduate liberal arts colleg
 
 [**Mapping Global Environmental Change:**](https://geog0150.github.io/s22/) Geography/Environmental Studies 150. *Spring 2022*
 
-[**Earth Engine Primer:**](https://github.com/jeffhowarth/eeprimer) Materials for teaching with Google Earth Engine. *Spring 2022*  
+[**Earth Engine Primer:**](https://github.com/jeffhowarth/eeprimer) Materials for teaching with Google Earth Engine. *Ongoing*  
 
 [**Cartography:**](https://geog0231.github.io/s22/) Geography 231. *Spring 2022*.  
 
-*contact: jhowarth@middlebury.edu*  
+*email: jhowarth@middlebury.edu*  
+*twitter: @jeffgeographer*
