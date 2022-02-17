@@ -1,8 +1,8 @@
 ## Jeff Howarth  
 
-![Hokkaido early draft](/images/hokkaido_cropped.png)
-
 I am an Associate Professor of Geography at an undergraduate liberal arts college in Vermont, USA. I teach cartography, geographic information systems, remote sensing, and conservation planning.
+
+![Hokkaido early draft](/images/hokkaido_cropped.png)
 
 ## Projects
 
