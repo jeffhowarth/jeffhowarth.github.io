@@ -1,6 +1,6 @@
 ## Jeff Howarth  
 
-I am an Associate Professor of Geography at Middlebury College in Vermont, USA. I teach course in cartography, geographic information systems, remote sensing, and planning.
+I am an Associate Professor of Geography at Middlebury College in Vermont, USA. I teach undergraduate courses in cartography, geographic information systems, remote sensing, and planning.
 
 ![Hokkaido early draft](/images/hokkaido_cropped.png)
 
