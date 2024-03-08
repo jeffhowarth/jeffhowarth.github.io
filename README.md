@@ -22,4 +22,8 @@ I am an Associate Professor of Geography at Middlebury College in Vermont, USA. 
 
 [**Toponym dynamics on Santa Cruz Island:**](https://docs.google.com/presentation/d/1WuR2_Qj9izHtNO_TlYbVOom-esAQnLpvJ1UeFNziG7k/edit?usp=sharing) Slides from 10th California Islands Symposium 2023. *Nov 2023*      
 
+## Current Practice  
+
+[**Wildlife Habitat Connectivity Atlas: Cornwall, VT](https://jhowarth.users.earthengine.app/view/cornwall-connectivity)  
+
 *email: jhowarth@middlebury.edu*  
