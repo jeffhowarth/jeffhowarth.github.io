@@ -26,4 +26,6 @@ I am an Associate Professor of Geography at Middlebury College in Vermont, USA. 
 
 [**Wildlife Habitat Connectivity Atlas: Cornwall, VT**](https://jhowarth.users.earthengine.app/view/cornwall-connectivity)  
 
+---  
+
 *email: jhowarth@middlebury.edu*  
