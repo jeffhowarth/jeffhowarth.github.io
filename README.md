@@ -6,13 +6,13 @@ I am an Associate Professor of Geography at Middlebury College in Vermont, USA. 
 
 ## Current Teaching  
 
-[**Patterns for Making Maps:**](https://jeffhowarth.github.io/cartEdu/) Materials for teaching project-based cartography. *Ongoing*  
+[**cart patterns:**](https://jeffhowarth.github.io/cartEdu/) Materials for teaching project-based cartography. *Spring 2024*  
 
-[**Mapmaking:**](https://www.youtube.com/channel/UC5aiwSQBSrMrS3ZdZ_PDpQg) YouTube channel for teaching Cartography with Adobe Illustrator and QGIS. *Ongoing* 
+[**Mapmaking:**](https://www.youtube.com/channel/UC5aiwSQBSrMrS3ZdZ_PDpQg) YouTube channel with Adobe Illustrator and QGIS tutorials for mapmaking. *Spring 2024* 
 
-[**Cartographic modeling:**](https://jeffhowarth.github.io/cartographic-modeling/) Materials for teaching conservation planning with Google Earth Engine and Whitebox Open Core. *Ongoing*
+[**Cartographic modeling:**](https://jeffhowarth.github.io/cartographic-modeling/) Materials for cartographic modeling with Google Earth Engine, Whitebox Open Core, and QGIS. *Spring 2024*
 
-[**Earth Engine Primer:**](https://jeffhowarth.github.io/eeprimer/) Materials for teaching with Google Earth Engine. *Ongoing*  
+[**Earth Engine Primer:**](https://jeffhowarth.github.io/eeprimer/) Materials for teaching with Google Earth Engine. *To be revised Fall 2024*  
 
 [**Earth Engine Apps:**](https://jhowarth.users.earthengine.app/) Apps for teaching and exploring with Google Earth Engine. *Ongoing* 
 
