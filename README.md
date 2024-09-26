@@ -4,13 +4,11 @@ I am an Associate Professor of Geography at Middlebury College in Vermont, USA. 
 
 ![Hokkaido early draft](/images/hokkaido_cropped.png)
 
-## Current teaching     
+## Current teaching   
 
-[**Cartographic modeling:**](https://jeffhowarth.github.io/cartographic-modeling/) Materials for cartographic modeling with Google Earth Engine, Whitebox Open Core, and QGIS. *Spring 2024*
+[**ee Pattern Book:**](https://jeffhowarth.github.io/ee-patterns/) A collection of timeless problems of spatial analysis and image processing and how to solve them with Google Earth Engine. *Fall 2024*
 
 [**cart patterns:**](https://jeffhowarth.github.io/cartEdu/) Materials for teaching project-based cartography. *Spring 2024*  
-
-[**Earth Engine Primer:**](https://jeffhowarth.github.io/eeprimer/) Materials for teaching with Google Earth Engine. *To be revised Fall 2024*  
 
 [**Earth Engine Apps:**](https://jhowarth.users.earthengine.app/) Apps for teaching and exploring with Google Earth Engine. *Ongoing* 
 
