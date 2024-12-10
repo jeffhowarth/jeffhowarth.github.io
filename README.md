@@ -8,8 +8,6 @@ I am an Associate Professor of Geography at Middlebury College in Vermont, USA. 
 
 [**ee Pattern Book:**](https://jeffhowarth.github.io/ee-patterns/) A collection of timeless problems of spatial analysis and image processing and how to solve them with Google Earth Engine. *Fall 2024*
 
-[**cart patterns:**](https://jeffhowarth.github.io/cartEdu/) Materials for teaching project-based cartography. *Spring 2024*  
-
 [**Earth Engine Apps:**](https://jhowarth.users.earthengine.app/) Apps for teaching and exploring with Google Earth Engine. *Ongoing* 
 
 ## research       
